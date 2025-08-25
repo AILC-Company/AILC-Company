@@ -270,18 +270,6 @@ graph TD
 
 ---
 
-## 📊 Company Metrics
-
-<div align="center">
-
-![AILC Stats](https://github-readme-stats.vercel.app/api?username=AILC-Company&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ailc-company&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🤝 Join the AI Revolution
 
 <div align="center">
